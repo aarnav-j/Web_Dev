@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Birthday Invitation Card</title>
+</head>
+<body align =" center" background="image3.png">
+    <h2 style ="color: yellow;">
+       🎉 🎉  You Are Invited!!! 🎉 🎉 
+    </h2>
+    <H1 style="color: rgb(237, 231, 237);">
+      🎈 🎈  It's Aarnav's  Birthday 🎈🎈 
+               
+    </H1>
+    <p >
+        <div style="color: yellow;">
+            Date :-  24th May 2025
+        </div>
+        <br>
+
+        <div style="color: yellow;">
+            Time :-  6:00 PM ONWARDS   
+        </div>
+        <div style="color: yellow;">
+            Venue :- Aarnav's Home
+        </div>
+        <br>
+        <div style="color: yellow;">
+            Come and Join Us for this Beautyfull and Most wonderfull Eveneing
+        </div>
+        <br>
+        <div style="color: yellow;">
+            <table align="center">
+                <TR>
+                    <td>
+                        🎵 Music 
+                        🎁 Cakes 
+                    </td>
+                </TR>
+                <tr>
+                    <td>
+                        🎮 Gmaes 
+                        💃 Dance 
+                    </td>
+                </tr>                
+            </table>
+        </div>
+        <div style="color: yellow;">
+            And Lot's Of Fun
+        </div>
+        <br><br>
+        <div style="color: yellow;">
+            Please RSVP by 15th May
+        </div><br>
+        <div style="color: yellow;">
+            Contact:- 7506892039
+        </div><br>
+        <div>
+            <a target="_blank" href="aarnavjuthani42@gmail.com" style="color: yellow;">
+                My email id:- aarnavjuthani42@gmail.com
+            </a>
+        </div><br>
+        <div style="color: yellow;">
+            🧧 We Can't Wait to celebrate with you 🧧 
+        </div>
+    </p>
+</body>
+</html>
